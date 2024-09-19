@@ -1,0 +1,1 @@
+<div class="text-end"><a href="{{route('dashboard.vehicletypes.edit',['vehicletype'=>$id])}}" class="menu-link px-3">Edit</a> | <a href="{{route('dashboard.vehicletypes.delete',['vehicletype'=>$id])}}" class="menu-link px-3" >Delete</a></div>
